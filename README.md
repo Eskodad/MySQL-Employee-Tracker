@@ -45,4 +45,4 @@ So that I can organize and plan my business
 
 ## Repository
 
-  - [Project Repo]
+  - [Project Repo](https://github.com/Eskodad/MySQL-Employee-Tracker)
