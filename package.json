@@ -9,15 +9,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      "url": "git+https://github.com/Eskodad/MySQL-Employee-Tracker"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      "url": "https://github.com/Eskodad/MySQL-Employee-Tracker/issues"
     },
-    "homepage": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "homepage": "https://github.com/Eskodad/MySQL-Employee-Tracker#readme",
     "dependencies": {
       "console.table": "^0.10.0",
       "inquirer": "^7.3.3",
